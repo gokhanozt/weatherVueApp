@@ -1,5 +1,6 @@
 # Weather via Vue
 
+
 ## Project setup
 ```
 npm install
